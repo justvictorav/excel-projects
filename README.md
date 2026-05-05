@@ -158,7 +158,7 @@ The dataset used is the Superstore Sales dataset, containing:
 ---
 
 ## 🖼️ Dashboard Preview
-![images](images.png)
+![images2](images2.png)
 
 ---
 
